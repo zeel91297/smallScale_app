@@ -1,0 +1,7 @@
+{
+  "name": "smallScale",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
